@@ -1,5 +1,6 @@
 {
   "BayesianOptimization/bo.py": "251d6a61441cef71baca3782d9017821d21137f5e91016f67dcccd7e16eda536",
+  "BayesianOptimization/bo_client.py": "6e417c912745fc220112035d275c4c99ed7bf52b5a22eeca980680d224e22274",
   "BayesianOptimization/bo_library.py": "ed16f2d247f3bf8e6af73cd86e9631f38f47bc88453db57c8fa42ba18ece54f4",
   "BayesianOptimization/bo_normalize.py": "d8c3b9c96fe937a024a408e3cf3011b1d87a7b463e5d2131d6a79719099f9d79",
   "BayesianOptimization/bo_protocol.py": "a66f1315a86bc5bc6fa98315492d2e2b2a972f0f184a80cb474d21bc09401b4a",
